@@ -103,7 +103,7 @@ EOS
     # Ruby programmers tend to favor the shovel operator (<<) over the
     # plus equals operator (+=) when building up strings.  Why?
 
-    # << alters the original string rather than creating a new one.
+    # shovel << alters the original string rather than creating a new one.
 
     # Analogy: You have a glass of water that is half full and you need to refill your glass.
     # First you do it by taking a new glass, filling it halfway with water from a tap and then using
